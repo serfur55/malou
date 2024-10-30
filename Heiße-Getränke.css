@@ -1,0 +1,155 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1326px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 30px;
+  margin-bottom: 40px;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 1256px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-1 .u-table-1 {
+  height: 356px;
+  width: 294px;
+  margin: 1623px 498px 0 302px;
+}
+
+.u-block-1706-41 {
+  height: 47px;
+}
+
+.u-section-1 .u-table-cell-1 {
+  font-size: 0.625rem;
+  text-transform: uppercase;
+}
+
+.u-section-1 .u-table-cell-2 {
+  line-height: 1.77;
+  font-size: 1rem;
+}
+
+.u-block-1706-48 {
+  height: 47px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  width: auto;
+  margin: -385px 869px 0 68px;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 700;
+  width: auto;
+  margin: 20px 869px 0 68px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1889px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 1036px;
+  }
+
+  .u-section-1 .u-table-1 {
+    margin-right: 421px;
+    margin-left: 225px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 737px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 737px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-table-1 {
+    margin-right: 311px;
+    margin-left: 115px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 517px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 517px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-table-1 {
+    margin-right: 221px;
+    margin-left: 25px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 337px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 337px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 783px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: 50px;
+    margin-bottom: 60px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 706px;
+  }
+
+  .u-section-1 .u-table-1 {
+    margin-top: 71px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-table-cell-1 {
+    font-size: 1rem;
+  }
+
+  .u-section-1 .u-table-cell-2 {
+    line-height: 1.6;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -967px;
+    margin-right: 127px;
+    margin-left: 10px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin: 243px 127px 638px 10px;
+  }
+}
