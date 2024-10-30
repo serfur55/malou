@@ -114,13 +114,16 @@
   }
 
   .u-section-1 .u-table-1 {
-    margin-top: 35px;
+    margin-top: 31px;
     margin-right: initial;
     margin-left: initial;
+    height: auto;
     width: auto;
   }
 
   .u-section-1 .u-text-1 {
-    margin: -433px 127px 404px 10px;
+    margin-top: -427px;
+    margin-right: 127px;
+    margin-left: 10px;
   }
 }
